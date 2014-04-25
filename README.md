@@ -9,8 +9,8 @@ It uses RenderTarget2D for each chunk.
 
 **VRAM usage :**
 * 0.5mb per 256x256 chunk (calculated using (bytes)(256 * 256 * 8))
-* **1280x720** uses >30 chunks = max(15mb of vram)
-* **1920x1080** uses ~50 chunks = max(25mb of vram)
+* **1280x720** uses ~30 chunks = max(15mb of vram)
+* **1920x1080** uses ~60 chunks = max(30mb of vram)
 
 ***
 
