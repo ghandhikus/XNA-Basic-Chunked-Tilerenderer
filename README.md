@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 XNA Basic Chunked Tilerenderer
 ==============================
 
@@ -19,7 +18,3 @@ It uses RenderTarget2D for each chunk.
 Those tests are relative, post real test results in issues. In XNA it rendered ~2.5 times faster. Tested on Intel HD 4000.
 * 16x16 tile and 256x256 chunks on 1280x720 = ~0.5ms per chunk
 * 8x8 tile and 128x128 chunks on 1280x720 = ~0.75ms per chunk
-=======
-XNA-Basic-Chunked-Tilerenderer
-==============================
->>>>>>> 9deaed38b0e40eb85b65b5c64af5befb7a65ce2c
